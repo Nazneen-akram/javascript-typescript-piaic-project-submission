@@ -4,9 +4,9 @@ Certainly, here's a `readme.md` file that links to the 12 repositories and inclu
 
 # Welcome to PIAIC JavaScript/TypeScript Projects
 
-Welcome to the Public Repository of PIAIC (Presidential Initiative for Artificial Intelligence & Computing) JavaScript/TypeScript projects by [Nazneen Akram](https://github.com/Nazneen-akram). Here you'll find a collection of JavaScript and TypeScript projects developed as part of the PIAIC coursework that I submitting for grading.
+Welcome to the Public Repository of PIAIC (Presidential Initiative for Artificial Intelligence & Computing) JavaScript/TypeScript projects by [Nazneen Akram](https://github.com/Nazneen-akram). Here you'll find a collection of JavaScript and TypeScript projects developed as part of the PIAIC coursework that I am submitting for grading.
 
-As per Mr. Hamzah Syed's instruction, I had earlier created separate repositories for each of the twelve project. However, this repository enlists the path as one list for easy access to the projects.
+As per [Mr. Hamzah Syed's](https://github.com/Hamzah-syed) instruction, I had earlier created separate repositories for each of the twelve project. However, this repository enlists the path as one list for easy access to the projects.
 
 ## Projects
 
