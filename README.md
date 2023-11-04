@@ -1,7 +1,5 @@
 # javascript-typescript-piaic-project-submission
 
-Certainly, here's a `readme.md` file that links to the 12 repositories and includes a welcome note to PIAIC:
-
 # Welcome to PIAIC JavaScript/TypeScript Projects
 
 Welcome to the Public Repository of PIAIC (Presidential Initiative for Artificial Intelligence & Computing) JavaScript/TypeScript projects by [Nazneen Akram](https://github.com/Nazneen-akram). Here you'll find a collection of JavaScript and TypeScript projects developed as part of the PIAIC coursework that I am submitting for grading.
